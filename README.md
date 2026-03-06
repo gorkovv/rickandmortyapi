@@ -1,4 +1,4 @@
-# Rick & Morty Characters (Flutter Test Task)
+# Rick & Morty Characters (Тестовое задание Flutter)
 
 <!-- GIF DEMO -->
 ![App Demo gif](./demo.gif)
