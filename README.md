@@ -77,11 +77,13 @@ Dart: 3.x.x
 
 Основные зависимости проекта:
 ```
-flutter_bloc: ^8.x.x
-equatable: ^2.x.x
-http: ^1.x.x
-hive: ^2.x.x
-hive_flutter: ^1.x.x
+cupertino_icons: ^1.0.8
+flutter_bloc: ^9.1.1
+dio: ^5.9.2
+hive: ^2.2.3
+hive_flutter: ^1.1.0
+equatable: ^2.0.8
+path_provider: ^2.1.5
 ```
 
 ---
@@ -125,7 +127,3 @@ flutter build ios --release
 
 ---
 
-## Лицензия
-MIT License
-
----
