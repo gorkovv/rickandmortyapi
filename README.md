@@ -1,8 +1,8 @@
 # Rick & Morty Characters (Flutter Test Task)
 
 <!-- GIF DEMO -->
-<!-- Вставьте сюда gif демонстрации приложения -->
-<!-- ![App Demo](demo.gif) -->
+![App Demo gif](./demo.gif)
+
 
 ## Описание проекта
 
